@@ -4,6 +4,8 @@ Entrena tu propio generador de tokens a partir de tus documentos. Aplicación we
 
 **Usar la app:** https://fborrasumh.github.io/tokenia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23964639.svg)](https://doi.org/10.5281/zenodo.23964639)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -47,7 +49,7 @@ El texto de ejemplo es «El ingenioso hidalgo don Quijote de la Mancha» de Migu
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *TokenIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. (2026). *TokenIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23964639](https://doi.org/10.5281/zenodo.23964639)
 
 ## Licencia
 
